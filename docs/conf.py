@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Mytotalav'
+project = 'Totalvhelpdocs'
 copyright = '2025'
-author = 'Leonhard Fie'
+author = 'Teshome Rumi'
 
 release = '1.0'
 
